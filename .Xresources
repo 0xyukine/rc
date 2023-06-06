@@ -1,0 +1,21 @@
+! transparency
+URxvt*transparent: true
+
+! change scroll position with updates
+URxvt*scrollTtyOutput: false
+
+!font
+URxvt.font: xft:monospace:size=12
+
+! scrollbar
+URxvt.scrollBar: false
+
+! tint
+URxvt*tintColor: HotPink
+
+! scrollback
+URxvt*saveLines: 12000
+
+! background / foreground colours
+URxvt*foreground: White
+URxvt*background: Black
